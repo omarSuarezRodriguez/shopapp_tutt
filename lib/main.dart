@@ -4,7 +4,7 @@ import 'my_app.dart';
 
 //
 // Classes here
-// -
+//
 // main
 
 //
