@@ -11,14 +11,17 @@ import 'my_app.dart';
 //
 // class Principal main
 void main() {
+  // Para el color de la status bar
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: Color(0xffff3a5a),
+    systemNavigationBarColor: Color(0xffff3a5a),
 //    statusBarBrightness: Brightness.dark,
 //    statusBarIconBrightness: Brightness.light,
 //    systemNavigationBarIconBrightness: Brightness.light,
-    systemNavigationBarColor: Color(0xffff3a5a), // navigation bar color
   ));
 
-  runApp(MyApp());
+  // Para correr la App
+  runApp(
+    MyApp(),
+  );
 }
-
