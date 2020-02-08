@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310408954774",
+    "firebase_url": "https://shopapptutt.firebaseio.com",
+    "project_id": "shopapptutt",
+    "storage_bucket": "shopapptutt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310408954774:android:befcc96f269ad0e2a6d3b7",
+        "android_client_info": {
+          "package_name": "com.aland.shopapp_tutt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310408954774-iq14bodq9l96fvgfejtd6msm1491v3sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aland.shopapp_tutt",
+            "certificate_hash": "dbeb5cb0ba584e3ce8c8ab743070f8392a9bc36e"
+          }
+        },
+        {
+          "client_id": "310408954774-020d8ee1ln21sf64qagme6f5l5p27mt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoZaXCD8Ru7jK_F4MO5zKHO1zxJrkgcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310408954774-020d8ee1ln21sf64qagme6f5l5p27mt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
